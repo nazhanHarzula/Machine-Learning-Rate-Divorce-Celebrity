@@ -19,4 +19,4 @@ This project includes scraping and machine learning processes regarding actresse
     <li>Finally, assess with confusion matrix and ROC visualization to find out how good the model is from the prediction results</li>
 </ul>
 
-** Note : Attached is a dataset (`Folder: External Output`) of 831 lines, if you want to immediately do the modeling and prediction process **
+* Note : Attached is a dataset (`Folder: External Output`) of 831 lines, if you want to immediately do the modeling and prediction process
